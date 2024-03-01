@@ -9,7 +9,7 @@ console.log(number)
 
 const PI = 3.14 //const
 //PI = 3.1416 // mi da errore
-//console.log(PI)
+console.log(PI)
 
 //esercizio 2c
 
